@@ -1,6 +1,7 @@
 # Logo Detection
 
 **Instructions for use**
+
 Run the logo_detection.py script with the name of the imput image to classify it into one of the six bank options
 ```
    ['Bank Of America', 'Wells Fargo', 'JPMorgan Chase', 'Citigroup Inc', 'Capital One', 'Other']
